@@ -82,6 +82,3 @@ MVP funcional no Lovable:
 ### O que funcionou?  
 
 ### O que não funcionou?  
-
-### O que aprendi sobre conversar com IAs?  
-Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
